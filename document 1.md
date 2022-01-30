@@ -1,4 +1,6 @@
 # Section 1
-## Subsection A
-**bold text**
-*italicized text*
+##  Subsection A
+
+ **some bold text**
+
+ *and some italicized text*
